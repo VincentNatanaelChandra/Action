@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	tes := 1000
+	tes
 	fmt.Println(tes)
 }
