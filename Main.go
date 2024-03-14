@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	tes := 100
+	tes := 10
 
 	fmt.Println(tes)
 }
